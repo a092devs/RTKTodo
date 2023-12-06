@@ -38,4 +38,4 @@ This is a simple Todo app created with Redux Toolkit and styled using SCSS.
 
 ## Credits
 
-This app was created as part of a project by [Arsalan](https://github.com/a092devs).
+This app was created as part of a project by [me](https://github.com/a092devs).
