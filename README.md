@@ -33,7 +33,7 @@ This is a simple Todo app created with Redux Toolkit and styled using SCSS.
 
 -   `src` folder contains the source code.
     -   `components` folder contains React components.
-    -   `css` folder contains SCSS styles.
+    -   `css` folder contains the application styling.
     -   `redux` folder contains Redux Toolkit reducers and store.
 
 ## Credits
